@@ -1,0 +1,12 @@
+{
+  "pageHomeListTitle": "Bazı yerelleştirilmiş string'ler:",
+  "pageHomeSamplePlaceholder": "Hoşgeldiniz {name}",
+  "pageHomeSamplePlaceholdersOrdered": "Adım {firstName} {lastName}",
+  "@pageHomeSamplePlaceholdersOrdered": {
+    "placeholders": {
+      "firstName": {},
+      "lastName": {}
+    }
+  },
+  "pageHomeSamplePlural": "{howMany, plural, one{1 mesajınız var} other{{howMany} mesajınız var}}"
+}
